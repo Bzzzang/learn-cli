@@ -12,3 +12,4 @@
 
 ## Git 병합(3가지 방법)
 - 3Way
+- Fast Forward
